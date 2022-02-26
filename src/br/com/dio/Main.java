@@ -26,7 +26,7 @@ public class Main {
         Mensagem.obterMensagem(21);
 
         //Mensagem
-        System.out.println("##################################################################################");
+        System.out.println("####################################################################################");
         System.out.println("Exercío Emprestimo");
         Emprestimo.calculaEmprestimo(200, Emprestimo.getDuasParcelas());
         Emprestimo.calculaEmprestimo(500, Emprestimo.getTresParcelas());

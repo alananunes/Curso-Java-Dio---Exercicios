@@ -10,6 +10,7 @@ public class Calculadora {
 
     }
 
+
     public static void subtracao(double num1, double num2){
 
         double resultado = num1 - num2;

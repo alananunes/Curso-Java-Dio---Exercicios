@@ -4,6 +4,7 @@ public class Mensagem {
 
     public static void obterMensagem(int hora){
 
+
         if (hora >= 5 && hora <= 12){
             mensagemBomdia();
 
