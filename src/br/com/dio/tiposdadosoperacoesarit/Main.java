@@ -1,8 +1,4 @@
-package br.com.dio;
-
-import org.w3c.dom.ls.LSOutput;
-
-import java.sql.SQLOutput;
+package br.com.dio.tiposdadosoperacoesarit;
 
 public class Main {
 
